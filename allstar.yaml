@@ -1,0 +1,7 @@
+optConfig:
+  disableRepoOverride: true
+  optInRepos:
+  - barebones-keycodes
+  - barebones-a11y-skipper
+  - barebones-react
+  - barebones-card
